@@ -32,9 +32,9 @@ Installation
 
 To Run Cron Parser
 
-    - node parser.js '*/15 0 1,15 * 1-5 /usr/bin/find'
-    - node parser.js '*/15 0 1,12,15 * 1-5 /usr/bin/find'
-    - node parser.js '*/15 0 1,15 * * /usr/bin/find'
+    - node cronParser.js '*/15 0 1,15 * 1-5 /usr/bin/find'
+    - node cronParser.js '*/15 0 1,12,15 * 1-5 /usr/bin/find'
+    - node cronParser.js '*/15 0 1,15 * * /usr/bin/find'
 
 
 Running Test Cases
