@@ -26,7 +26,7 @@ Features
 
 Installation
 
-    - Unzip file or download from the git repository - 
+    - Unzip file or download from the git repository - https://github.com/himansusekhar11004/cron_parser
     - cd deliveroo-cron-parser
     - npm install
 
