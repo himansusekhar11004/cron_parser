@@ -1,0 +1,16 @@
+{
+  "name": "himansu-cron-parser",
+  "version": "1.0.0",
+  "description": "This software helps to parse the given cron input string ",
+  "main": "parser.js",
+  "scripts": {
+    "test": "npx mocha test.js "
+  },
+  "type": "module",
+  "author": "Himansu",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
